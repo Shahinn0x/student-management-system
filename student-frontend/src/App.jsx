@@ -186,10 +186,10 @@ const styles = {
   container: { fontFamily: 'Arial, sans-serif', padding: '30px', maxWidth: '800px', margin: '0 auto' },
   form: { background: '#f8f9fa', padding: '20px', borderRadius: '8px', marginBottom: '30px', border: '1px solid #ddd' },
   input: { display: 'block', width: '95%', padding: '8px', margin: '8px 0', borderRadius: '4px', border: '1px solid #ccc' },
-  submitBtn: { background: '#007bff', color: '#fff', border: 'none', padding: '10px 15px', borderRadius: '4px', cursor: 'pointer' },
+  submitBtn: { background: '#004c9d', color: '#fff', border: 'none', padding: '10px 15px', borderRadius: '4px', cursor: 'pointer' },
   deleteBtn: { background: '#dc3545', color: '#fff', border: 'none', padding: '5px 10px', borderRadius: '4px', cursor: 'pointer' },
   table: { width: '100%', borderCollapse: 'collapse', marginTop: '10px' },
-  th: { background: '#007bff', color: '#fff', padding: '10px', textAlign: 'left' },
+  th: { background: '#004c9d', color: '#fff', padding: '10px', textAlign: 'left' },
   td: { borderBottom: '1px solid #ddd', padding: '10px' },
   error: { background: '#f8d7da', color: '#721c24', padding: '10px', borderRadius: '4px', marginBottom: '15px' },
 };
